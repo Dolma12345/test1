@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2492-B3CD
+
+ Directory of C:\Users\Dolma Sherpa\Desktop\API\GIT-GITHUB\My_github_first
+
+07/22/2020  10:49 AM    <DIR>          .
+07/22/2020  10:49 AM    <DIR>          ..
+07/22/2020  10:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,494,699,520 bytes free
+
+
